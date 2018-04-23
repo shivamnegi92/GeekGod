@@ -1,1 +1,1 @@
-# Event Website- MEAN STACK (GEEK GOD)
+# Event Website- MEAN stack (Geek God)
